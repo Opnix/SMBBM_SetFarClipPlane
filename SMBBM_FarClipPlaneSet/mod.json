@@ -1,0 +1,11 @@
+{
+  "Title": "Set FarClipPlane",
+  "Id": "opnix.farclipplane",
+  "DLLFile": "SMBBM_SetFarClipPlane.dll",
+  "Description": "A mod that allows the minimap to render when you're far away.'",
+  "Version": "6.9",
+  "Date": "5/27/2022",
+  "Author": "Opnix",
+  "AuthorURL": "",
+  "UpdateServer": ""
+}

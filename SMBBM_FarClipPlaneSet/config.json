@@ -1,0 +1,7 @@
+{
+  "farClipPlane": {
+    "Value": 300,
+    "Description": "Default: 300",
+    "Category": "Far Clip Plane"
+  }
+}
